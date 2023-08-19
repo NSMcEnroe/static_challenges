@@ -1,0 +1,42 @@
+.title-bar {
+  background-color: red;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login-link {
+  color: #fff;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.secondary-title-bar {
+  background-color: slategray;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.secondary-title-bar a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.footer {
+  background-color: slategray;
+  color: white;
+  padding: 5px;
+  display: flex;
+}
+
+.content{
+  padding: 20px;
+}
